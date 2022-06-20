@@ -1,4 +1,4 @@
-# my_second_test_app
+# basic_desktop_app
 
 A new Flutter project.
 
